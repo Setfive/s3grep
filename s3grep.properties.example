@@ -1,0 +1,7 @@
+s3.access_key=XXXX
+s3.secret_key=YYYY
+s3.bucket=my-bucket
+search_term=my_search
+is_regex_search=false
+log_level=INFO
+logger_pattern=%d{dd MMM yyyy HH:mm:ss} [%p] %m%n
